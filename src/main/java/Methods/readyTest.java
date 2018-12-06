@@ -13,11 +13,11 @@ public class readyTest {
 		}
 		if(abc.equalsIgnoreCase(resverse))
 		{
-		System.out.println(resverse+" is a Palidrom !!!");
+		System.out.println(resverse+" is a Palidrom number !!!");
 		}
 		else
 		{
-			System.out.println("Not a Palidrome !!!");
+			System.out.println("Not a Palidrome !!");
 		}
 
 	}
